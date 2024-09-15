@@ -1,0 +1,4 @@
+# local package
+tensorflow
+matplotlib
+numpy
